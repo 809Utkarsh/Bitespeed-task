@@ -6,7 +6,7 @@ This is my solution to the Bitespeed backend task for identity resolution.
 ## 🔗 Live API Endpoint
 **POST** `/identify`  
 Hosted on Render:  
-➡️ [(https://bitespeed-cutomer-helper.onrender.com)](https://bitespeed-cutomer-helper.onrender.com/identify)
+(https://bitespeed-cutomer-helper.onrender.com/identify)
 
 ## 📬 Request Body
 
